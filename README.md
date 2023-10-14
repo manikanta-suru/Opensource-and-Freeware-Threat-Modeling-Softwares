@@ -1,37 +1,40 @@
 # Opensource-and-Freeware-Threat-Modeling-Softwares
-The global Threat Modeling Software Market is expected to reach $1.8 billion by 2028.  Here is a list of Opensource, and Freeware Threat Modeling Softwares. If you need help figuring out where to start, the Threat Modeling Manifesto is the right place https://lnkd.in/gV4K_VPq.
+
+The global Threat Modeling Software Market is expected to reach $1.8 billion by 2028.  Here is a list of Opensource, and Freeware Threat Modeling Software.
+
+If you need help figuring out where to start, the Threat Modeling Manifesto is the right place .https://www.threatmodelingmanifesto.org/
 
 📄 Opensource Threat Modeling Software
 
 #👉 Threagile (https://threagile.io/)
 
-#👉 OWASP Threat Dragon (https://lnkd.in/g3QzeSn7)
+#👉 OWASP Threat Dragon (https://owasp.org/www-project-threat-dragon/#div-main)
 
-#👉 OWASP pytm (https://lnkd.in/guxpQ7Z3)
+#👉 OWASP pytm (https://owasp.org/www-project-pytm/)
 
 #👉 CAIRIS (https://cairis.org/)
 
-#👉 Threats Manager Studio (https://lnkd.in/g7kkigYD)
+#👉 Threats Manager Studio (https://github.com/simonec73/threatsmanager)
 
 #👉 Threatspec (https://threatspec.org/)
 
-#👉 MAL (https://lnkd.in/gE_sYMPT)
+#👉 MAL (https://github.com/mal-lang/exampleLang)
 
-#👉 Raindance (https://lnkd.in/ghR_Gey5)
+#👉 Raindance (https://github.com/devsecops/raindance)
 
-#👉 Threat modeling-as-a-Code (TaaC) (https://lnkd.in/g9Wd4wXK)
+#👉 Threat modeling-as-a-Code (TaaC) (https://github.com/rusakovichma/TicTaaC)
 
-#👉 Delicious (https://lnkd.in/gh98szAN)
+#👉 Delicious (https://github.com/rpetrich/deciduous)
 
 #👉 Threat Playbook (https://threatplaybook.io/)
 
-#👉 OVVL (https://lnkd.in/gXtPXWJG)
+#👉 OVVL (https://github.com/OVVL-HSO/OVVL-Webapp)
 
-#👉 Threat mind (https://lnkd.in/gChVpz7m)
+#👉 Threat mind (https://threatmind.sourceforge.net/)
 
 📄 Freeware Threat Modeling Software
 
-#👉 Microsoft Threat Modeling Tool (https://lnkd.in/gM3k2CEY)
+#👉 Microsoft Threat Modeling Tool (https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool)
 
 
 https://lnkd.in/gkv4efhe
